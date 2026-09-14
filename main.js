@@ -5,7 +5,7 @@ const keysJet=true; // modifique para ter um jato controlado pelo teclado
 const prologJets=[]; // jatos prolog
 
 // Se quiser adicionar jatos prolog, faça assim:
-prologJets.push("Ligerin");
+//prologJets.push("Ligerin");
 //prologJets.push("Apaga Fogo");
 
 /////////////////////////////////////////////////////////////////////////////
