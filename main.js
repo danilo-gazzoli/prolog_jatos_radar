@@ -4,8 +4,8 @@ const dummyJets=3; // quantidade de jatos aleatórios
 const keysJet=false; // modifique para ter um jato controlado pelo teclado
 const prologJets=[]; // jatos prolog
 
-// Cria um jato prolog de indice 0 com o nome "Agente Reativo Modelo Simples", ligado ao arquivo 'jato0.pl'
-prologJets.push("Agente Reativo Modelo Simples");
+// Cria o agente de indice 0 com o nome "megabrain", ligado ao arquivo 'jato0.pl'
+prologJets.push("megabrain");
 
 // Se quiser adicionar jatos prolog, faça assim:
 //prologJets.push("Ligerin");
